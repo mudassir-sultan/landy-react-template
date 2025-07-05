@@ -1,5 +1,5 @@
 import { BrowserRouter } from "react-router-dom";
-import { I18nextProvider } from "i18next";
+import { I18nextProvider } from "react-i18next";
 
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
