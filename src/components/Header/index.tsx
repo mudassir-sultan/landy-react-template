@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Row, Col, Drawer } from "antd";
-import { withTranslation, TFunction } from "react-i18next";
+import { withTranslation, TFunction } from "i18next";
 import Container from "../../common/Container";
 import { SvgIcon } from "../../common/SvgIcon";
 import { Button } from "../../common/Button";

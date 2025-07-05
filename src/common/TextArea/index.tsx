@@ -1,4 +1,4 @@
-import { withTranslation } from "react-i18next";
+import { withTranslation } from "i18next";
 import { StyledTextArea, StyledContainer, Label } from "./styles";
 import { InputProps } from "../types";
 

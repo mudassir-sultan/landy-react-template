@@ -1,5 +1,5 @@
 import { Row, Col } from "antd";
-import { withTranslation } from "react-i18next";
+import { withTranslation } from "i18next";
 import { Slide } from "react-awesome-reveal";
 import { ContactProps, ValidationTypeProps } from "./types";
 import { useForm } from "../../common/utils/useForm";
